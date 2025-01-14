@@ -1,4 +1,5 @@
 ### Hi there 👋
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Enes Faruk Baltaci)" title="👋 Hi there! I'm (Enes Faruk Baltaci)|[https://raymond.li](https://pl.linkedin.com/in/enes-faruk-baltaci))"/>]([https://raymond.li/](https://pl.linkedin.com/in/enes-faruk-baltaci))
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
